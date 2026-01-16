@@ -1,0 +1,9 @@
+<option value="No educational background">No Educational Background</option>
+<option value="Elementary Diploma">Elementary Diploma</option>
+<option value="High School Diploma">High School Diploma</option>
+<option value="University (No Degree Completed)">University (No Degree Completed)</option>
+<option value="Associate Degree">Associate Degree</option>
+<option value="Bachelor’s Degree">Bachelor’s Degree</option>
+<option value="Master’s Degree">Master’s Degree</option>
+<option value="Doctorate">Doctorate</option>
+<option value="Technical Training or Certification">Technical Training or Certification</option>

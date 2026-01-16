@@ -1,0 +1,16 @@
+<option value="Administrative & Office Work">Administrative or Office Work</option>
+<option value="Agriculture & Fisheries">Agriculture & Fisheries</option>
+<option value="Business Process Outsourcing">Business Process Outsourcing</option>
+<option value="Construction & Skilled Work">Construction or Skilled Work</option>
+<option value="Criminal Justice & Law Enforcement">Criminal Justice & Law Enforcement</option>
+<option value="Culinary">Culinary</option>
+<option value="Education & Training">Education & Training</option>
+<option value="Engineering">Engineering</option>
+<option value="Freelance & Creative Work">Freelance & Creative Work</option>
+<option value="Government Service">Government Service</option>
+<option value="Healthcare & Medical">Healthcare & Medical</option>
+<option value="Hospitality & Tourism">Hospitality & Tourism</option>
+<option value="Information Technology (IT)">Information Technology (IT)</option>
+<option value="Manufacturing">Manufacturing</option>
+<option value="Retail & Sales">Retail & Sales</option>
+<option value="Transportation & Logistics">Transportation & Logistics</option>
